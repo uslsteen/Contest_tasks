@@ -1,0 +1,3 @@
+word(keys): wood	|	 hash: 68		|	 amount in text:1
+word(keys): as	|	 hash: 9		|	 amount in text:17
+word(keys): I	|	 hash: 2		|	 amount in text:19
